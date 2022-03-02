@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/win10/OneDrive/Desktop/Aiops/MLOps-google-cloud-integration/mlruns/0/e7e7cc4ade534c83a12d52bba4a64770/artifacts
+end_time: 1646223450140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: e7e7cc4ade534c83a12d52bba4a64770
+run_uuid: e7e7cc4ade534c83a12d52bba4a64770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1646223445656
+status: 3
+tags: []
+user_id: win10
