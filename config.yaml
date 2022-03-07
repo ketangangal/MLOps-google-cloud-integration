@@ -1,0 +1,8 @@
+params:
+  bucket_name: mlops-bucket-final
+  storage_class: COLDLINE
+  location: US
+  GOOGLE_APPLICATION_CREDENTIALS: gcr-mlops-46c58ea519d0.json
+  blob_name:
+  file_path:
+
